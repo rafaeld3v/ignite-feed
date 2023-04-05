@@ -1,16 +1,8 @@
-<h1 align="center">
-  <img alt="IgniteFeed" title="IgniteFeed" src="./src/assets/icon.svg" />
-</h1>
+# IgniteFeed
 
-<p align="center">
-  <img alt="License" src="./src/assets/capa.svg">
+Um aplicativo para publicação de posts e interação de usuários.
 
- <img src="https://img.shields.io/static/v1?label=Ignite&message=React&color=00875f&labelColor=000000" alt="Ignite" />
-</p>
-
-<br>
-
-## ✨ Tecnologias
+## Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -18,20 +10,30 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Typescript](https://www.typescriptlang.org/)
 - [Vite](https://vitejs.dev/)
 
-## 💻 Projeto
+## Descrição
 
-IgniteFeed para a publicação de posts e interação de usuários.
+O IgniteFeed é um aplicativo que permite aos usuários publicarem posts e interagirem com outros usuários. Ele foi desenvolvido como parte do treinamento Ignite da Rocketseat.
 
-## 🔖 Layout
+## Requisitos
 
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/c84x1vFsmymzVdeh5SWMlD/Ignite-Feed?node-id=1-35&t=FzIPj77pKqJJtFpW-0). É necessário ter conta no [Figma](http://figma.com/) para acessá-lo.
+Antes de começar, certifique-se de ter as seguintes ferramentas instaladas em sua máquina:
 
-## 🚀 Como executar
+- [Node.js](https://nodejs.org/)
+- [Yarn](https://yarnpkg.com/)
+
+## Como executar
 
 - Clone o repositório
 - Instale as dependências com `yarn`
-- Inicie seu app com `yarn dev`
+- Inicie o aplicativo com `yarn dev`
 
-## 📄 Licença
+## Exemplos de uso
 
-Desenvolvido durante o Treinamento Ignite da Rocketseat **por** [**rafaeld3v**](https://www.linkedin.com/in/rafaeld3v/) 🤖
+Para publicar um novo post, basta clicar no botão "Novo post" e preencher o formulário com o título e o conteúdo do post. Os usuários podem interagir com os posts curtindo ou comentando neles.
+
+## Contribuição
+
+Contribuições são sempre bem-vindas! Se você quiser contribuir com o projeto, siga estas etapas:
+
+1. Faça um fork deste repositório
+2. Crie uma
