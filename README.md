@@ -5,7 +5,7 @@
 <p align="center">
   <img alt="License" src="./assets/capa.svg">
 
- <img src="https://img.shields.io/static/v1?label=Ignite&message=ReactNative&color=FF872C&labelColor=000000" alt="Ignite" />
+ <img src="https://img.shields.io/static/v1?label=Ignite&message=React&color=00875f&labelColor=000000" alt="Ignite" />
 </p>
 
 <br>
