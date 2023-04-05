@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img alt="IgniteFeed" title="IgniteFeed" src="./assets/icon.svg" />
+  <img alt="IgniteFeed" title="IgniteFeed" src="./src/assets/icon.svg" />
 </h1>
 
 <p align="center">
-  <img alt="License" src="./assets/capa.svg">
+  <img alt="License" src="./src/assets/capa.svg">
 
  <img src="https://img.shields.io/static/v1?label=Ignite&message=React&color=00875f&labelColor=000000" alt="Ignite" />
 </p>
