@@ -1,8 +1,16 @@
-# IgniteFeed
+<h1 align="center">
+  <img alt="IgniteFeed" title="IgniteFeed" src="./src/assets/icon.svg" />
+</h1>
 
-Um aplicativo para publicação de posts e interação de usuários.
+<p align="center">
+  <img alt="License" src="./src/assets/capa.svg">
 
-## Tecnologias
+ <img src="https://img.shields.io/static/v1?label=Ignite&message=React&color=00875f&labelColor=000000" alt="Ignite" />
+</p>
+
+<br>
+
+## ✨ Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -10,30 +18,20 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Typescript](https://www.typescriptlang.org/)
 - [Vite](https://vitejs.dev/)
 
-## Descrição
+## 💻 Projeto
 
-O IgniteFeed é um aplicativo que permite aos usuários publicarem posts e interagirem com outros usuários. Ele foi desenvolvido como parte do treinamento Ignite da Rocketseat.
+IgniteFeed para a publicação de posts e interação de usuários.
 
-## Requisitos
+## 🔖 Layout
 
-Antes de começar, certifique-se de ter as seguintes ferramentas instaladas em sua máquina:
+Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/c84x1vFsmymzVdeh5SWMlD/Ignite-Feed?node-id=1-35&t=FzIPj77pKqJJtFpW-0). É necessário ter conta no [Figma](http://figma.com/) para acessá-lo.
 
-- [Node.js](https://nodejs.org/)
-- [Yarn](https://yarnpkg.com/)
-
-## Como executar
+## 🚀 Como executar
 
 - Clone o repositório
 - Instale as dependências com `yarn`
-- Inicie o aplicativo com `yarn dev`
+- Inicie seu app com `yarn dev`
 
-## Exemplos de uso
+## 📄 Licença
 
-Para publicar um novo post, basta clicar no botão "Novo post" e preencher o formulário com o título e o conteúdo do post. Os usuários podem interagir com os posts curtindo ou comentando neles.
-
-## Contribuição
-
-Contribuições são sempre bem-vindas! Se você quiser contribuir com o projeto, siga estas etapas:
-
-1. Faça um fork deste repositório
-2. Crie uma
+Desenvolvido durante o Treinamento Ignite da Rocketseat **por** [**rafaeld3v**](https://www.linkedin.com/in/rafaeld3v/) 🤖
